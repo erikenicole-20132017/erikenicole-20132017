@@ -1,0 +1,69 @@
+Perchè imparare Erik?
+Erik è un linguaggio di programmazione un po' strano a dire la verità. Infatti, oggi, ti insegnerò a programmare Erik. Erik è un linguaggio sofisticato e progettato da me. Esistono due versioni: in linguaggio comune, e quello macchina. Sei pronto? Come tutti i linguaggi di programmazione bisognera faticare un po' (intendo TANTO) per poi avere il risultato. Dico bene?
+
+
+Caratteri supportati
+Erik supporta caratteri maiuscoli e minuscoli.
+:::::::::::::::::::::::::::::::::::::::
+Uppercase: A B C :::::::::: X Y Z
+
+Lowercase: a b c :::::::::: x y z
+:::::::::::::::::::::::::::::::::::::::
+
+Cifre
+:::::::::::::::::::::::::::::::::::::::
+0 1 2 3 4 5 6 7 8 9
+:::::::::::::::::::::::::::::::::::::::
+
+Intersezione Erik
+L'intersezione è l'insieme degli elementi che appartengono a entrambi gli insiemi contemporaneamente.
+
+Questo è un esempio di codice algoritmo intersezionale:
+:::::::::::::::::::::::::::::::::::::::
+get {
+   o.System.App.Data.Resources
+   o.System.App.Data.Machine
+}
+:::::::::::::::::::::::::::::::::::::::
+
+Invece questo è il linguaggio macchina:
+:::::::::::::::::::::::::::::::::::::::
+LOADING SYSTEM 0010 0001
+SCRIPT EXECUTION
+00 01 11 00 10 01 10 00 10 11 00 [42]
+LOAGING SYSTEM MACHINE
+:::::::::::::::::::::::::::::::::::::::
+
+Il linguaggio macchina sullo stesso in un codice avrà il controllo: 
+:::::::::::::::::::::::::::::::::::::::
+LOADING SYSTEM
+SCRIPT EXECUTION
+LOAGING VIRTUAL MACHINE
+@ DATA RESOURCES
+:::::::::::::::::::::::::::::::::::::::
+
+L'attributo :@ DATA RESOURCES: indica un rilascio tramite il disco fisso magnetico, che varia i controlli dell'onda X, 
+contente il codice :o.System.App.Data:Resources:
+
+Le informazioni per il disco fisso magnetico:
+:::::::::::::::::::::::::::::::::::::::
+x 92; y 66
+CONTROL 921; 429; 911.
+:::::::::::::::::::::::::::::::::::::::
+
+Dal controllo del secondo attributo, i raggi magnetici si contraggono, sovrapponendosi, copiando le stesse in               formazioni
+tramite i dati del processore terziario: 
+:::::::::::::::::::::::::::::::::::::::
+get % $_action_$
+temp
+get_turn_off_processor
+$ int
+$ number
+$ %construct processor
+:::::::::::::::::::::::::::::::::::::::
+
+L'attributo, quindi ha una regola base:
+Costruire il processore -> Selezionare i campi magnetici
+            |                           ^
+						V                           |
+Selezionare i campi magnetici base -> Eliminare le rotte di sistema
