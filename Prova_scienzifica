@@ -84,3 +84,12 @@ type TestClass () = Coloranti
     member this.TestMethodPassing () =
         Assert.IsTrue(true);
 
+Plastilina 
+Ingredienti
+Capacita' di Ingredienti
+15 ml di acqua
+30 g di farina
+5 g di bicarbonato di sodio
+1 grammo di sale
+5 ml di liquido colorante alimentare 
+iniettato con una siringa
