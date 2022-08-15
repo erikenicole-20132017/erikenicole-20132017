@@ -84,14 +84,16 @@ type TestClass () = Coloranti
     member this.TestMethodPassing () =
         Assert.IsTrue(true);
 
-Plastilina 
-Ingredienti
-Capacita' di Ingredienti
-15 ml di acqua
-30 g di farina
-5 g di bicarbonato di sodio
-1 grammo di sale
-5 ml di liquido colorante alimentare 
-iniettato con una siringa
-
+Dido'
+Colorante
 Per iniziare prendere una ciotola.
+Mettere acqua e detergente
+E poi mescolare per qualche minuto.
+Dopo metti ancora acqua a volontà
+E dopo anche il sapone a volontà
+Sabbia
+50 gr di fecola di patate
+50 gr di semolino
+15 ml olio di semi
+Unire il colorante con la sabbia 
+E dopo lasciarlo riposare per pochi minuti.
