@@ -10,11 +10,23 @@
 # Questo è solo l'inizio!
 Probabilmente, solo team professionali creano sistemi operativi!
 Ma non è giusto, vi siete mai chiesti cosa significhi "amicizia"?
-E' certo che solo grandi collaboratori vi stiano costruento sistemi operativi.
+E' certo che solo grandi collaboratori vi stiano costruendo sistemi operativi.
 Ma essere un sviluppatore di codici! Sono solo un bambino che
 si comporta da unformatico, faccio pure disegni da bambino: 
 come l'immagine precedente che ha mostrato il mio omicidio.
 E ricordate di aiutarmi! Grazie!
 
 # Installazione Erik
-Per instalare Erik, dovete solo eseguire il comando `INSTALL Erik setup%:counter` e eseguire un file immagine come ``
+Per installare Erik, dovete solo eseguire il comando `INSTALL Erik setup%:counter` e eseguire un file immagine come 
+```
+# config setup;
+return
+GET 00101 0101
+0, 0, 1, 4, 8, 2
+IMAGE FILE
+```
+
+# Vietato 
+```
+403 Forbidden
+```
