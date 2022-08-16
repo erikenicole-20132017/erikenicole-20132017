@@ -51,7 +51,7 @@ x 92; y 66
 CONTROL 921; 429; 911.
 :::::::::::::::::::::::::::::::::::::::
 
-Dal controllo del secondo attributo, i raggi magnetici si contraggono, sovrapponendosi, copiando le stesse in               formazioni
+Dal controllo del secondo attributo, i raggi magnetici si contraggono, sovrapponendosi, copiando le stesse informazioni
 tramite i dati del processore terziario: 
 :::::::::::::::::::::::::::::::::::::::
 get % $_action_$
@@ -64,6 +64,36 @@ $ %construct processor
 
 L'attributo, quindi ha una regola base:
 Costruire il processore -> Selezionare i campi magnetici
-            |                           ^
-						V                           |
+|
 Selezionare i campi magnetici base -> Eliminare le rotte di sistema
+
+Variabili in Erik
+Una variabile indica un valore della scelta. Quando si programma in Erik, esistono due tipi di variabili.
+Codice della variabile interna
+:::::::::::::::::::::::::::::::::::::::
+echo action = variable
+variable ("66")
+p 0 = Variable is &variable;.
+:::::::::::::::::::::::::::::::::::::::
+
+Il risultato sarà:
+:::::::::::::::::::::::::::::::::::::::
+Variable is 66.
+:::::::::::::::::::::::::::::::::::::::
+
+Codice della variabile esterna
+progress.project
+:::::::::::::::::::::::::::::::::::::::
+echo action = variable
+src variable = /variable.src
+p 0 = Variable is &variable;.
+:::::::::::::::::::::::::::::::::::::::
+variable.src
+:::::::::::::::::::::::::::::::::::::::
+66 Variable;
+:::::::::::::::::::::::::::::::::::::::
+E l'output:
+:::::::::::::::::::::::::::::::::::::::
+Variable is 66.
+:::::::::::::::::::::::::::::::::::::::
+Il risultato è lo stesso, vero? Ma è stato utilizzato il file :variable.src: .
