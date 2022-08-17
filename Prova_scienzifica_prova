@@ -1,0 +1,47 @@
++ int = hotting_ 801 ** 00000011111
++ unit 1 ="set1 set2 set3"
+to = 21 sat = 240 light = 90 r = 191 g = 101 b = 0
++ mod. 474 h<400> dec<70> u<4,0>
+<4,0>4,1</4,0><4,1>correct</4,1><474>problem: E00000000004</474>
+
+Coloranti {
+Set 1 
+Ingredienti         Nome principale
+
+Gingerino           E00000000001 (Errore mod. 8: versato)
+Cipolla Rossa		Annullato (Modello 7)
+
+Set 2
+Cochetta            E00000000002
+
+Set 3
+Limoncello          E00000000003
+
+Set 4
+Cedrotto			Annullato (Modello 6)
+Prezzemolo + Acqua	E00000000004	Senza colorante (0,0005931%)	Errore: versato
+Scaldati
+
+Set 5
+Latte               E00000000005 (grad. grassi separati. mod. 9)
+								 (scadenza modello 475, mod. 474)
+
+
+Modello 475
+1DT2B4474
+} 
+Spolverata {
+Curcuma			Choice1Of2
+Curry			Choice1Of3
+Peperoncino		Choice1Of4
+Noci			Choice1Of5
+Cannella		Choice1Of6
+Orzo tosato		Choice1Of7
+Cappuccino!		Choice2Of2
+}
+Liquidi e Coloranti {
+Cochetta
+Aranciata
+Gingerino
+}	
+}
