@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning on Internet a new codes.
 - 💞️ I’m looking to collaborate on the Erik Corporation
 - 📫 For to reach me, message erikngresi@ic-predazzotesero.it (school address) or erikngresi1@outlook.it
-- 🌏 I live in Italy.
+- 🌍 I live in Italy.
 - 🍃 This is a ✨ special ✨ repository created with love by Erik.
 
 # Questo è solo l'inizio!
