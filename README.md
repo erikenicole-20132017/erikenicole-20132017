@@ -7,26 +7,12 @@
 - 🌍 I live in Italy.
 - 🍃 This is a ✨ special ✨ repository created with love by Erik.
 
-# Questo è solo l'inizio!
-Probabilmente, solo team professionali creano sistemi operativi!
-Ma non è giusto, vi siete mai chiesti cosa significhi "amicizia"?
-E' certo che solo grandi collaboratori vi stiano costruendo sistemi operativi.
-Ma essere un sviluppatore di codici! Sono solo un bambino che
-si comporta da unformatico, faccio pure disegni da bambino: 
-come l'immagine precedente che ha mostrato il mio omicidio.
-E ricordate di aiutarmi! Grazie!
+# That's just the beginning!
+Probably, only professional teams create operating systems!
+But that's not right, have you ever wondered what "friendship" means?
+It is certain that only large collaborators are building operating systems there.
+But be a code developer! I'm just a child who
+behaves like a technician, I also make drawings as a child: 
+like the previous image that showed my murder.
+And remember to help me! Thank you!
 
-# Installazione Erik
-Per installare Erik, dovete solo eseguire il comando `INSTALL Erik setup%:counter` e eseguire un file immagine come 
-```
-# config setup;
-return
-GET 00101 0101
-0, 0, 1, 4, 8, 2
-IMAGE FILE
-```
-
-# Vietato 
-```
-403 Forbidden
-```
