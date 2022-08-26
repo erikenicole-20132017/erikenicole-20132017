@@ -86,3 +86,69 @@ And now the numerical allocation method that has the most capacity:
 
 ### Here is the hexadecimal controller
 Here is the hexadecimal: allocate multiple files in the internal controller. In fact it has a number scale. It goes like this: 0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F. But it has a different allocation method, because it has a complex list that goes on indefinitely. Here is a small part of the list:
+
+Here are the pieces that compose it:
+```
+00000000   00000070   000000E0
+00000010   00000080   000000F0
+00000020   00000090
+00000030   000000A0
+00000040   000000B0
+00000050   000000C0
+00000060   000000D0
+```
+![Hexadecimal](https://i.postimg.cc/52yX1NqC/hexyy-2.png)
+
+Screenshot of a hexadecimal editor:
+![Hexadecimal Editor](https://i.postimg.cc/vHHKQp1n/hexeditor-hexyy.png)
+
+Example:
+
+![Hexadecimal Code](https://i.postimg.cc/br3pZkH9/hex-example.png)
+
+
+## The length in the codes
+
+In computing, a word is the natural unit of data used by a particular processor design. A word is a fixed-sized datum handled as a unit by the instruction set or the hardware of the processor. The number of bits or digits[a] in a word (the word size, word width, or word length) is an important characteristic of any specific processor design or computer architecture.
+
+The size of a word is reflected in many aspects of a computer's structure and operation; the majority of the registers in a processor are usually word sized and the largest datum that can be transferred to and from the working memory in a single operation is a word in many (not all) architectures. The largest possible address size, used to designate a location in memory, is typically a hardware word (here, "hardware word" means the full-sized natural word of the processor, as opposed to any other definition used).
+
+Documentation for older computers with fixed word size commonly states memory sizes in words rather than bytes or characters. The documentation sometimes uses metric prefixes correctly, sometimes with rounding, e.g., 65 kilowords (KW) meaning for 65536 words, and sometimes uses them incorrectly, with kilowords (KW) meaning 1024 words (210) and megawords (MW) meaning 1,048,576 words (220). With standardization on 8-bit bytes and byte addressability, stating memory sizes in bytes, kilobytes, and megabytes with powers of 1024 rather than 1000 has become the norm, although there is some use of the IEC binary prefixes.
+
+Computer architecture bit widths: Bit
+```
+1 2 4 8 12 16 18 20 24 26 28 30 31 32 36 40 45 48 60 64 128 256 512
+```
+
+Application
+```
+8 16 32 64
+```
+
+Binary floating-point precision
+```
+16 (×½)2432 (×1)4064 (×2)80128 (×4)256 (×8)
+```
+
+Decimal floating-point precision
+```
+32 64 128
+```
+
+Name      | Capacity
+--------- | ------
+Byte      | x8
+Word      | x16
+Dword     | x32
+Qword     | x64
+KByte     | x1024
+MByte     | x1000000
+GByte     | x1000000000
+TByte     | x1000000000000
+PByte     | x1000000000000000
+EByte     | x1000000000000000000
+ZByte     | x1000000000000000000000
+YByte     | x1000000000000000000000000
+
+
+Here: we concluded with the numbers.
