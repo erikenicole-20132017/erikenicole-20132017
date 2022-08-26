@@ -58,7 +58,7 @@ when i receive utilfile {
 We talked about the work on the hard drive, there are binary numbers. Called "controllers", but strange, the previous example was too small for a large storage space. The controllers, when they are too small, the disk will be reported in partition as invalid. depending on the binaries, there are also controllers that support multiple capacities: octal. Everything comes from the track, I say well? In fact, the track has only 2 controllers, but the hexadecimal has as many as 8. 
 
 ### Octal controllers
-In the previous chapter, we talked about binary numaries, which have controllers. The track has 2, the octal has 8. We're still focused on the binary 🛤️ for a while.
+In the previous chapter, we talked about binary numaries, which have controllers. The binary has 2, the octal has 8. We're still focused on the binary 🛤️ for a while.
 The track has 2 controllers: 0-1. Instead the octal has a scale from 0 to 7: 0-1-2-3-4-5-6-7. The octal only supports these numbers, but not as many as 8 and 9. Otherwise it would be the decimal scale, which will reign over the next chapter. Now let's move on to the octal. An octal sequence would look like this:
 ```
 0 1 2 3 4 5 6 7
