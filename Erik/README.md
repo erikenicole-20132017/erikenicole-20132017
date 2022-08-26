@@ -107,7 +107,7 @@ Example:
 ![Hexadecimal Code](https://i.postimg.cc/br3pZkH9/hex-example.png)
 
 
-## The length in the codes
+### The length in the codes
 
 In computing, a word is the natural unit of data used by a particular processor design. A word is a fixed-sized datum handled as a unit by the instruction set or the hardware of the processor. The number of bits or digits[a] in a word (the word size, word width, or word length) is an important characteristic of any specific processor design or computer architecture.
 
@@ -137,10 +137,10 @@ Decimal floating-point precision
 
 Name      | Capacity
 --------- | ------
-Byte      | x8
-Word      | x16
-Dword     | x32
-Qword     | x64
+Byte      | x1
+Word      | x2
+Dword     | x4
+Qword     | x8
 KByte     | x1024
 MByte     | x1000000
 GByte     | x1000000000
