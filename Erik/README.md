@@ -85,3 +85,4 @@ Everyone knows the decimal with a scale of 0-1-2-3-4-5-6-7-8-9. So I will not da
 And now the numerical allocation method that has the most capacity:
 
 ### Here is the hexadecimal controller
+Here is the hexadecimal: allocate multiple files in the internal controller. In fact it has a number scale. It goes like this: 0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F. But it has a different allocation method, because it has a complex list that goes on indefinitely. Here is a small part of the list:
