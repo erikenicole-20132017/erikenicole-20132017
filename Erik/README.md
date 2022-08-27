@@ -242,7 +242,6 @@ Well, that's just the least of professional things I can do like that. In fact, 
 Are you thinking that drawing is very simple, really? Ah, let's see! First of all we have to understand what the binary is and I dare not tell you because I have already said it thousands of times for half a century! Take the spare clothes because you will have to sweat drawing with a keyboard.
 > **_NOTE:_** The basic keyboard doesn't have any special symbols, but try the Unicode keyboard. Remember that, many symbols are not colored. The source code does not support formatting, that is, you will not be able to format in bold, italic, underlined, strikethrough, font, size, color, pictures, and maybe even much more. Image and formatting examples have a Markdown format, but in a simple console it will not support formatting. Image and formatting examples have a Markdown format, but in a simple console it will not support formatting.
 
-Example:
 ![binaryart](https://user-images.githubusercontent.com/108028311/187042550-40b62fb6-5541-4e86-84d3-60cbb532f513.JPG)
 ### Symbols ASCII Art
 The most widespread. Binary art is not widely used, because without formatting, it would be CHAOS. But we have one last chance: the ASCII symbol. Let's see an example of this refined drawing method.
