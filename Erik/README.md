@@ -59,7 +59,7 @@ We talked about the work on the hard drive, there are binary numbers. Called "co
 
 ### Octal controllers
 In the previous chapter, we talked about binary numaries, which have controllers. The binary has 2, the octal has 8. We're still focused on the binary 🛤️ for a while.
-The track has 2 controllers: 0-1. Instead the octal has a scale from 0 to 7: 0-1-2-3-4-5-6-7. The octal only supports these numbers, but not as many as 8 and 9. Otherwise it would be the decimal scale, which will reign over the next chapter. Now let's move on to the octal. An octal sequence would look like this:
+The binary has 2 controllers: 0-1. Instead the octal has a scale from 0 to 7: 0-1-2-3-4-5-6-7. The octal only supports these numbers, but not as many as 8 and 9. Otherwise it would be the decimal scale, which will reign over the next chapter. Now let's move on to the octal. An octal sequence would look like this:
 ```
 0 1 2 3 4 5 6 7
 1 2 3 4 5 6 7 0
@@ -106,6 +106,25 @@ Example:
 
 ![Hexadecimal Code](https://i.postimg.cc/br3pZkH9/hex-example.png)
 
+Table of the hex codes:
+```
+0	=	0dec	=	0oct		0	0	0	0	
+1	=	1dec	=	1oct		0	0	0	1	
+2	=	2dec	=	2oct		0	0	1	0	
+3	=	3dec	=	3oct		0	0	1	1	
+4	=	4dec	=	4oct		0	1	0	0	
+5	=	5dec	=	5oct		0	1	0	1	
+6	=	6dec	=	6oct		0	1	1	0	
+7	=	7dec	=	7oct		0	1	1	1	
+8	=	8dec	=	10oct		1	0	0	0	
+9	=	9dec	=	11oct		1	0	0	1	
+A	=	10dec	=	12oct		1	0	1	0	
+B	=	11dec	=	13oct		1	0	1	1	
+C	=	12dec	=	14oct		1	1	0	0	
+D	=	13dec	=	15oct		1	1	0	1	
+E	=	14dec	=	16oct		1	1	1	0	
+F	=	15dec	=	17oct		1	1	1	1	
+```
 
 ### The length in the codes
 
@@ -172,4 +191,35 @@ It's a
      ⬛️🟫 ⬛️🟫      ⬛️🟫  ⬛️🟫        ⬛️🟫                         
      ⬛️🟫⬛️🟫       ⬛️🟫  ⬛️🟫        ⬛️🟫                         
      ⬛️⬛️🟫🟫       ⬛️🟫  ⬛️🟫        ⬛️🟫                         
+```
+
+## Machine language
+Here is the following machine language that the system must perform:
+```
+   6      5     5     5     5      6     bits
+[  op  |  rs |  rt |  rd |shamt| funct]  R-type
+[  op  |  rs |  rt | address/immediate]  I-type
+[  op  |        target address        ]  J-type
+[  op  |  rs |  rt |  rd |shamt| funct]
+[  op  |  rs |  rt | address/immediate]
+[  op  |        target address        ]
+```
+```
+action 1 ("color")
+action 2 ("get machine")
+action 3 ("cmd")
+   holderplace="write" set blockquote li4 char/write
+   run program debug
+   error print
+   program open
+```
+Here is the decimal binary conversion:
+```
+000000 00001 00010 00110 00000 100000   binary
+100011 00011 01000 00000 00001 000100   binary
+100011 00011 01000 00000 00001 000100   binary
+000010 00000 00000 00000 10000 000000   binary
+   0     1     2     6     0     32     decimal
+  35     3     8           68           decimal
+   2                 1024               decimal
 ```
