@@ -55,7 +55,7 @@ when i receive utilfile {
    edit variable = switch degress to +1
 }
 ```
-We talked about the work on the hard drive, there are binary numbers. Called "controllers", but strange, the previous example was too small for a large storage space. The controllers, when they are too small, the disk will be reported in partition as invalid. depending on the binaries, there are also controllers that support multiple capacities: octal. Everything comes from the track, I say well? In fact, the track has only 2 controllers, but the hexadecimal has as many as 8. 
+We talked about the work on the hard drive, there are binary numbers. Called "controllers", but strange, the previous example was too small for a large storage space. The controllers, when they are too small, the disk will be reported in partition as invalid. depending on the binaries, there are also controllers that support multiple capacities: octal. Everything comes from the binary, I say well? In fact, the track has only 2 controllers, but the hexadecimal has as many as 8. 
 
 ### Octal controllers
 In the previous chapter, we talked about binary numaries, which have controllers. The binary has 2, the octal has 8. We're still focused on the binary 🛤️ for a while.
