@@ -223,3 +223,5 @@ Here is the decimal binary conversion:
   35     3     8           68           decimal
    2                 1024               decimal
 ```
+
+Let's still stay on the machine code, and try to take a look at the [binary numbers](link) to clarify ourselves.
