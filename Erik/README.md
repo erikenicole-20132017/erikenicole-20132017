@@ -154,20 +154,20 @@ Decimal floating-point precision
 32 64 128
 ```
 
-Name      | Capacity
---------- | ------
-Byte      | x1
-Word      | x2
-Dword     | x4
-Qword     | x8
-KByte     | x1024
-MByte     | x1000000
-GByte     | x1000000000
-TByte     | x1000000000000
-PByte     | x1000000000000000
-EByte     | x1000000000000000000
-ZByte     | x1000000000000000000000
-YByte     | x1000000000000000000000000
+Name      | Byte                             | Bits
+--------- | ---------------------------------| ----------
+Byte      | x1                               | 8
+Word      | x2                               | 16
+Dword     | x4                               | 32
+Qword     | x8                               | 64
+KByte     | x1024                            | Too Big
+MByte     | x1000000                         | Too Big
+GByte     | x1000000000                      | Too Big
+TByte     | x1000000000000                   | Too Big
+PByte     | x1000000000000000                | Too Big
+EByte     | x1000000000000000000             | Too Big
+ZByte     | x1000000000000000000000          | Too Big
+YByte     | x1000000000000000000000000       | Too Big
 
 
 Here: we concluded with the numbers.
@@ -224,4 +224,61 @@ Here is the decimal binary conversion:
    2                 1024               decimal
 ```
 
-Let's still stay on the machine code, and try to take a look at the [binary numbers](link) to clarify ourselves.
+Let's still stay on the machine code, and try to take a look at the [binary numbers]([link](https://github.com/erikenicole-20132017/erikenicole-20132017/blob/main/Erik/README.md#binary-utility-file)) to clarify ourselves.
+
+Because now we are going to focus on the binary number, so ... fasten your seatbelts because we are about to walk the track! Safe travel!
+
+Let's clarify ourselves better by seeing a binary code.
+```
+0010 0101 0010 0101
+0100 1010 0000 1010
+0011 1100 1111 0000
+0011 1100 0101 1101
+```
+Well, that's just the least of professional things I can do like that. In fact, did you know that you can also draw? Stay tuned to find out in the next chapter of this WONDERFUL guide!
+
+## ASCII Art
+### Binary ASCII Art
+Are you thinking that drawing is very simple, really? Ah, let's see! First of all we have to understand what the binary is and I dare not tell you because I have already said it thousands of times for half a century! Take the spare clothes because you will have to sweat drawing with a keyboard.
+> **_NOTE:_** The basic keyboard doesn't have any special symbols, but try the Unicode keyboard. Remember that, many symbols are not colored. The source code does not support formatting, that is, you will not be able to format in bold, italic, underlined, strikethrough, font, size, color, pictures, and maybe even much more. Image and formatting examples have a Markdown format, but in a simple console it will not support formatting. Image and formatting examples have a Markdown format, but in a simple console it will not support formatting.
+
+Example:
+![binaryart](https://user-images.githubusercontent.com/108028311/187042550-40b62fb6-5541-4e86-84d3-60cbb532f513.JPG)
+### Symbols ASCII Art
+The most widespread. Binary art is not widely used, because without formatting, it would be CHAOS. But we have one last chance: the ASCII symbol. Let's see an example of this refined drawing method.
+```
+ _______   ________  ___  ___  __       
+|\  ___ \ |\   __  \|\  \|\  \|\  \     
+\ \   __/|\ \  \|\  \ \  \ \  \/  /|_   
+ \ \  \_|/_\ \   _  _\ \  \ \   ___  \  
+  \ \  \_|\ \ \  \\  \\ \  \ \  \\ \  \      ::   :::::         ::::::::  ::     ::  ::::::
+   \ \_______\ \__\\ _\\ \__\ \__\\ \__\     ::   ::               ::     ::     ::  ::
+    \|_______|\|__|\|__|\|__|\|__| \|__|     ::   :::::            ::     :::::::::  ::::::
+                                             ::      ::            ::     ::     ::  ::
+                                             ::   :::::            ::     ::     ::  ::::::
+                                             
+                                             ::::::    ::::::::     ::::::::   ::::::::    :::
+                                             ::   ::   ::           :::           ::       :::
+                                             ::::::    ::::::::     ::::::::      ::       :::
+                                             ::   ::   ::                :::      ::
+                                             ::::::    ::::::::     ::::::::      ::       :::
+                                                  
+```
+
+## Style
+```
+Style {
+   webkit-opacity:none;
+   position-absolute:none;
+   font-family: Segoe UI;
+   nofont: Segoe UI; sans-serif;
+   set code
+}
+```
+
+## Project Status
+**status.txt** _Read only_ Edited on 27/08/2022
+```
+[27/08/2022] Status.txt
+[27/08/2022] README.md edit
+```
