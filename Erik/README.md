@@ -1,5 +1,3 @@
-[settings](https://github.com/erikenicole-20132017/erikenicole-20132017/blob/main/Erik/SETTINGS.md)
-
 # Welcome in the Erik Operating System
 Here there will be only the source folder of the operating system and some information about it.
 
