@@ -277,10 +277,7 @@ Style {
 }
 ```
 
+# The Erik advanced operating system (I think)
+
 ## Project Status
-**status.txt** _Read only_ Edited on 27/08/2022
-```
-[27/08/2022] Status.txt
-[27/08/2022] README.md edit
-```
 The system is under construction.
