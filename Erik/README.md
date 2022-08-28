@@ -277,7 +277,5 @@ Style {
 }
 ```
 
-# The Erik advanced operating system (I think)
-
 ## Project Status
 The system is under construction.
