@@ -89,7 +89,7 @@ And now the numerical allocation method that has the most capacity:
 ### Here is the hexadecimal controller
 Here is the hexadecimal: allocate multiple files in the internal controller. In fact it has a number scale. It goes like this: 0-1-2-3-4-5-6-7-8-9-A-B-C-D-E-F. But it has a different allocation method, because it has a complex list that goes on indefinitely. Here is a small part of the list:
 
-Here are the pieces that compose it:
+
 ```
 00000000   00000070   000000E0
 00000010   00000080   000000F0
@@ -128,6 +128,9 @@ E	=	14dec	=	16oct		1	1	1	0
 F	=	15dec	=	17oct		1	1	1	1	
 ```
 
+![hexadecimal_number_value](https://user-images.githubusercontent.com/108028311/209473766-e888e07e-43d7-4460-aa47-0b83b159f07a.png)
+
+
 ### The length in the codes
 
 In computing, a word is the natural unit of data used by a particular processor design. A word is a fixed-sized datum handled as a unit by the instruction set or the hardware of the processor. The number of bits or digits[a] in a word (the word size, word width, or word length) is an important characteristic of any specific processor design or computer architecture.
@@ -156,20 +159,20 @@ Decimal floating-point precision
 32 64 128
 ```
 
-Name      | Byte                             | Bits
---------- | ---------------------------------| ----------
-Byte      | x1                               | 8
-Word      | x2                               | 16
-Dword     | x4                               | 32
-Qword     | x8                               | 64
-KByte     | x1024                            | Too Big
-MByte     | x1000000                         | Too Big
-GByte     | x1000000000                      | Too Big
-TByte     | x1000000000000                   | Too Big
-PByte     | x1000000000000000                | Too Big
-EByte     | x1000000000000000000             | Too Big
-ZByte     | x1000000000000000000000          | Too Big
-YByte     | x1000000000000000000000000       | Too Big
+Name      | Byte                             |
+--------- | ---------------------------------|
+Byte      | x1                               |
+Word      | x2                               | 
+Dword     | x4                               |
+Qword     | x8                               |
+KByte     | x1024                            | 
+MByte     | x1000000                         | 
+GByte     | x1000000000                      | 
+TByte     | x1000000000000                   | 
+PByte     | x1000000000000000                | 
+EByte     | x1000000000000000000             |
+ZByte     | x1000000000000000000000          | 
+YByte     | x1000000000000000000000000       | 
 
 
 Here: we concluded with the numbers.
@@ -243,7 +246,6 @@ Well, that's just the least of professional things I can do like that. In fact, 
 ### Binary ASCII Art
 Are you thinking that drawing is very simple, really? Ah, let's see! First of all we have to understand what the binary is and I dare not tell you because I have already said it thousands of times for half a century! Take the spare clothes because you will have to sweat drawing with a keyboard.
 > **_NOTE:_** The basic keyboard doesn't have any special symbols, but try the Unicode keyboard. Remember that, many symbols are not colored. The source code does not support formatting, that is, you will not be able to format in bold, italic, underlined, strikethrough, font, size, color, pictures, and maybe even much more. Image and formatting examples have a Markdown format, but in a simple console it will not support formatting. Image and formatting examples have a Markdown format, but in a simple console it will not support formatting.
-
 ![binaryart](https://user-images.githubusercontent.com/108028311/187042550-40b62fb6-5541-4e86-84d3-60cbb532f513.JPG)
 ### Symbols ASCII Art
 The most widespread. Binary art is not widely used, because without formatting, it would be CHAOS. But we have one last chance: the ASCII symbol. Let's see an example of this refined drawing method.
@@ -291,5 +293,3 @@ Set on
 </svg>
   </a>
 <!--Ending switchers>
-## Project Status
-The system is under construction.
