@@ -4,6 +4,7 @@
 Here there will be only the source folder of the operating system and some information about it.
 
 ## Numerics
+Our system uses 10 symbols or digits, written like this: 0 1 2 3 4 5 6 7 8 9. 0 is the neutral number, that is, it does not change the number. For example: 3 + 0 = 3. In addition, there is a rule based on the sequence of integers, which is the sum of the second factor and the sum of the previous number. For example: 1+1=2. 1+2=3. 2+3=5. 3+5=8. 5+8=13. 8+13=21... And so it continues. 
 ### Binary utility file
 
 Now look, there will be information about the hard drive where the operating system will be set. Here are 0 bytes:
