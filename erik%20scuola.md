@@ -24,7 +24,7 @@
 
 <p>Emma, Alice, Elena, Sava, Giada e Erica sono seduti sulla panchina. Nico e Samuel vanno in alto sull’altalena. –ATTENTO!!!!- urlano. Erik scappò per non farsi male. Erik sale sullo scivolo. Poi scende. Ma i compagni di classe giocavano e urlavano. Magari sarebbe stato più bello se sotto ci fosse una piscina.</p>
 
-<img src= piscina_compagni_terza_b.jpg alt=i maschi sono a petto nudo, invece le femmine con il copricappezzoli. />
+<img src= piscina_compagni_terza_b.jpg" alt="i maschi sono a petto nudo, invece le femmine con il copricappezzoli." />
 
 <br>
 
