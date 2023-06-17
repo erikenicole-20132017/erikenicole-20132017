@@ -5,7 +5,8 @@ Here there will be only the source folder of the operating system and some infor
 
 ## Numerics
 Our system uses 10 symbols or digits, written like this: 0 1 2 3 4 5 6 7 8 9. 0 is the neutral number, that is, it does not change the number. For example: 3 + 0 = 3. In addition, there is a rule based on the sequence of integers, which is the sum of the second factor and the sum of the previous number. For example: 1+1=2. 1+2=3. 2+3=5. 3+5=8. 5+8=13. 8+13=21... And so it continues. 
-### Binary utility file
+### Binary
+#### Binary Utility File
 
 Now look, there will be information about the hard drive where the operating system will be set. Here are 0 bytes:
 ```
@@ -59,6 +60,12 @@ when i receive utilfile {
 }
 ```
 We talked about the work on the hard drive, there are binary numbers. Called "controllers", but strange, the previous example was too small for a large storage space. The controllers, when they are too small, the disk will be reported in partition as invalid. depending on the binaries, there are also controllers that support multiple capacities: octal. Everything comes from the binary, I say well? In fact, the track has only 2 controllers, but the octal has as many as 8. 
+
+#### Does location matter?
+
+It is often said that where you are for example in a place at the cinema you should not give a damn but when it comes to binary numbers then you can also change your value if you do not even know where you are. To better understand...
+
+
 
 ### Octal controllers
 In the previous chapter, we talked about binary numaries, which have controllers. The binary has 2, the octal has 8. We're still focused on the binary 🛤️ for a while.
