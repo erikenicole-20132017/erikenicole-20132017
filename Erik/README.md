@@ -18,13 +18,13 @@ Of course it is easy for 0 bytes to all contain zeros in the binary.
 
 The file will be created as a `utility.bin` that will show the direct reports (the direct reports modify the attributes for once, the indirect ones instead keep them by sorting it by date)
 
-Example for indirect file used from `24 Jan 2001 - 25 Jan 2001`:
+Example for indirect file used from `Jan 24 2001 - Jan 25 2001`:
 ```
-24/01/2001
+2001/01/24
 00 00 00 01 00 00 00 00 00 00 00 00 00 01 10 
 00 10 01 10 00 10 00 10 10 00 10 10 10 00 01 
 00 00 00 10 01 11 11 01 10 10 00 01 01 00 10 
-25/01/2001
+2001/01/25
 00 00 00 01 00 00 00 00 00 00 00 00 00 01 10 
 00 10 01 10 00 10 00 10 10 00 10 10 10 00 01 
 00 00 00 10 01 10 00 10 10 00 10 01 00 00 10
@@ -32,7 +32,7 @@ Example for indirect file used from `24 Jan 2001 - 25 Jan 2001`:
 
 Example for direct file used from `24 Jan 2001 - 25 Jan 2001`:
 
-Modified by 24 Jan 2001: 
+Modified by Jan 24 2001: 
 `utility.bin`
 ```
 00 00 00 01 00 00 00 00 00 00 00 00 00 01 10 
@@ -40,7 +40,7 @@ Modified by 24 Jan 2001:
 00 00 00 10 01 11 11 01 10 10 00 01 01 00 10 
 ```
 
-Modified by 25 Jan 2001: 
+Modified by Jan 25 2001: 
 `utility.bin`
 ```
 00 00 00 01 00 00 00 00 00 00 00 00 00 01 10 
@@ -132,51 +132,7 @@ F	=	15dec	=	17oct		1	1	1	1
 ![hexadecimal_number_value](https://user-images.githubusercontent.com/108028311/209473766-e888e07e-43d7-4460-aa47-0b83b159f07a.png)
 
 
-### The length in the codes
-
-In computing, a word is the natural unit of data used by a particular processor design. A word is a fixed-sized datum handled as a unit by the instruction set or the hardware of the processor. The number of bits or digits[a] in a word (the word size, word width, or word length) is an important characteristic of any specific processor design or computer architecture.
-
-The size of a word is reflected in many aspects of a computer's structure and operation; the majority of the registers in a processor are usually word sized and the largest datum that can be transferred to and from the working memory in a single operation is a word in many (not all) architectures. The largest possible address size, used to designate a location in memory, is typically a hardware word (here, "hardware word" means the full-sized natural word of the processor, as opposed to any other definition used).
-
-Documentation for older computers with fixed word size commonly states memory sizes in words rather than bytes or characters. The documentation sometimes uses metric prefixes correctly, sometimes with rounding, e.g., 65 kilowords (KW) meaning for 65536 words, and sometimes uses them incorrectly, with kilowords (KW) meaning 1024 words (210) and megawords (MW) meaning 1,048,576 words (220). With standardization on 8-bit bytes and byte addressability, stating memory sizes in bytes, kilobytes, and megabytes with powers of 1024 rather than 1000 has become the norm, although there is some use of the IEC binary prefixes.
-
-Computer architecture bit widths: Bit
-```
-1 2 4 8 12 16 18 20 24 26 28 30 31 32 36 40 45 48 60 64 128 256 512
-```
-
-Application
-```
-8 16 32 64
-```
-
-Binary floating-point precision
-```
-16 (×½)2432 (×1)4064 (×2)80128 (×4)256 (×8)
-```
-
-Decimal floating-point precision
-```
-32 64 128
-```
-
-Name      | Byte                             |
---------- | ---------------------------------|
-Byte      | x1                               |
-Word      | x2                               | 
-Dword     | x4                               |
-Qword     | x8                               |
-KByte     | x1024                            | 
-MByte     | x1000000                         | 
-GByte     | x1000000000                      | 
-TByte     | x1000000000000                   | 
-PByte     | x1000000000000000                | 
-EByte     | x1000000000000000000             |
-ZByte     | x1000000000000000000000          | 
-YByte     | x1000000000000000000000000       | 
-
-
-Here: we concluded with the numbers.
+### omg
 
 It's a
 ```
@@ -269,6 +225,10 @@ The most widespread. Binary art is not widely used, because without formatting, 
                                                   
 ```
 
+"Erik is the best" example 
+
+> IMPORTANT: Serif or sans-serif are not used because writing in ASCII would become unreadable for the font type. Instead, in order to become composed, that is, that each symbol agrees with the others and that they do the same thing, it is necessary to use a monospace. A monospaced serif or a monospaced sans-serif is also fine!
+
 ## Style
 ```
 Style {
@@ -294,3 +254,38 @@ Set on
 </svg>
   </a>
 <!--Ending switchers>
+
+## The Archive Universe
+### 1. Informations
+In computing, a word is the natural unit of data used by a particular processor design. A word is a fixed-sized datum handled as a unit by the instruction set or the hardware of the processor. The number of bits or digits in a word (the word size, word width, or word length) is an important characteristic of any specific processor design or computer architecture.
+
+The size of a word is reflected in many aspects of a computer's structure and operation; the majority of the registers in a processor are usually word sized and the largest datum that can be transferred to and from the working memory in a single operation is a word in many (not all) architectures. The largest possible address size, used to designate a location in memory, is typically a hardware word (here, "hardware word" means the full-sized natural word of the processor, as opposed to any other definition used).
+
+Documentation for older computers with fixed word size commonly states memory sizes in words rather than bytes or characters. The documentation sometimes uses metric prefixes correctly, sometimes with rounding, e.g., 65 kilowords (KW) meaning for 65536 words, and sometimes uses them incorrectly, with kilowords (KW) meaning 1024 words (210) and megawords (MW) meaning 1,048,576 words (220). With standardization on 8-bit bytes and byte addressability, stating memory sizes in bytes, kilobytes, and megabytes with powers of 1024 rather than 1000 has become the norm, although there is some use of the IEC binary prefixes.
+
+Computer architecture bit widths: Bit
+```
+1 2 4 8 12 16 18 20 24 26 28 30 31 32 36 40 45 48 60 64 128 256 512
+```
+
+Application
+```
+8 16 32 64
+```
+
+Binary floating-point precision
+```
+16 (×½)2432 (×1)4064 (×2)80128 (×4)256 (×8)
+```
+
+Decimal floating-point precision
+```
+32 64 128
+```
+
+Each unit of allocation, in ascending order, is multiplied by a thousand times. For example, 1 GB repeated 1000 times becomes 1 Terabyte (1000 GB)
+
+### 2: Comparison
+
+Scroll Until the End
+
