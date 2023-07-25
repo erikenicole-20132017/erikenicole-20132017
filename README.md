@@ -12,7 +12,6 @@ Probably, only professional teams create operating systems!
 But that's not right, have you ever wondered what "friendship" means?
 It is certain that only large collaborators are building operating systems there.
 But be a code developer! I'm just a child who
-behaves like a technician, I also make drawings as a child: 
-like the previous image that showed my murder.
+behaves like a technician, I also make drawings as a child
 And remember to help me! Thank you!
 
