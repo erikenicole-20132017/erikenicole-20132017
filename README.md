@@ -3,7 +3,7 @@
 - 👀 I’m interested in the operating system.
 - 🌱 I’m currently learning on Internet a new codes.
 - 💞️ I’m looking to collaborate on the Erik Corporation
-- 📫 For to reach me, message erikngresi@ic-predazzotesero.it (school address), erikngresi1@outlook.it (Outlook address) or ngresierik@gmail.com (Gmail)
+- 📫 email address is not available more
 - 🌍 I live in Italy.
 - 🍃 This is a ✨ special ✨ repository created with love by Erik.
 
