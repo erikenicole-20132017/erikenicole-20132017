@@ -4,14 +4,6 @@
 - 🌱 I’m currently learning on Internet a new codes.
 - 💞️ I’m looking to collaborate on the Erik Corporation
 - 📫 email address is not available more
-- 🌍 I live in Italy.
+- 🌍 I live in Italy. MI piace la pizza
 - 🍃 This is a ✨ special ✨ repository created with love by Erik.
-
-# That's just the beginning!
-Probably, only professional teams create operating systems!
-But that's not right, have you ever wondered what "friendship" means?
-It is certain that only large collaborators are building operating systems there.
-But be a code developer! I'm just a child who
-behaves like a technician, I also make drawings as a child
-And remember to help me! Thank you!
 
